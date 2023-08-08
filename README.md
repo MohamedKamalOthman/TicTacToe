@@ -1,4 +1,4 @@
-# Tic Tac Toe (React Native) 😄🎮
+# Tic Tac Toe (React Native) 🎮
 
 Welcome to the Tic Tac Toe game built using React Native! This is a simple and fun two-player game where you can challenge your friends to see who is the ultimate Tic Tac Toe champion. 😎
 
@@ -49,3 +49,7 @@ npm start
 ![Screenshot 1](./screenshot.jpg)
 
 # Demo video 📹
+
+
+https://github.com/MohamedKamalOthman/TicTacToe/assets/76039756/5f733e07-b3e6-4b17-85a0-05a205270700
+
