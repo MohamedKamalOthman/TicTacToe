@@ -67,13 +67,13 @@ export const Board = () => {
       {board[index] === 'X' && (
         <Image
           style={styles.cellImage}
-          source={require('./assets/images/X.png')}
+          source={require('../assets/images/X.png')}
         />
       )}
       {board[index] === 'O' && (
         <Image
           style={styles.cellImage}
-          source={require('./assets/images/O.png')}
+          source={require('../assets/images/O.png')}
         />
       )}
     </TouchableOpacity>
