@@ -20,6 +20,10 @@ Welcome to the Tic Tac Toe game built using React Native! This is a simple and f
 
 # Installation 📲
 
+You Download the apk from the latest [relase](https://github.com/MohamedKamalOthman/TicTacToe/releases/tag/v1) and install normally on your phone.
+
+## Manual Installation 
+
 1. clone the repo
 
 ```bash
